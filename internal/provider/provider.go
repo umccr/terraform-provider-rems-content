@@ -7,10 +7,10 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/umccr/terraform-provider-rems-content/internal/provider/data_sources"
-	"github.com/umccr/terraform-provider-rems-content/internal/provider/functions"
-	"github.com/umccr/terraform-provider-rems-content/internal/provider/resources"
-	remsclient "github.com/umccr/terraform-provider-rems-content/internal/remsclient"
+	"github.com/umccr/terraform-provider-remscontent/internal/provider/data_sources"
+	"github.com/umccr/terraform-provider-remscontent/internal/provider/functions"
+	"github.com/umccr/terraform-provider-remscontent/internal/provider/resources"
+	remsclient "github.com/umccr/terraform-provider-remscontent/internal/remsclient"
 
 	"github.com/hashicorp/terraform-plugin-framework/datasource"
 	"github.com/hashicorp/terraform-plugin-framework/ephemeral"

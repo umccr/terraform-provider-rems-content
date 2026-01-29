@@ -13,7 +13,7 @@ import (
 	"context"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	openapiclient "github.com/umccr/terraform-provider-rems-content/internal/remsclient"
+	openapiclient "github.com/umccr/terraform-provider-remscontent/internal/remsclient"
 	"testing"
 )
 

@@ -11,7 +11,7 @@ import (
 	"github.com/hashicorp/terraform-plugin-framework/datasource/schema"
 	"github.com/hashicorp/terraform-plugin-framework/types"
 	"github.com/hashicorp/terraform-plugin-log/tflog"
-	"github.com/umccr/terraform-provider-rems-content/internal/remsclient"
+	"github.com/umccr/terraform-provider-remscontent/internal/remsclient"
 )
 
 // Ensure provider defined types fully satisfy framework interfaces.
