@@ -21,7 +21,7 @@ or official example code for more details.
 terraform {
   required_providers {
     remscontent = {
-      source = "registry.terraform.io/umccr/rems-content"
+      source = "registry.terraform.io/umccr/remscontent"
     }
   }
 }

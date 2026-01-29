@@ -11,9 +11,9 @@ package openapi
 
 import (
 	"context"
-	openapiclient "github.com/umccr/terraform-provider-remscontent/internal/remsclient"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
+	openapiclient "github.com/umccr/terraform-provider-remscontent/internal/remsclient"
 	"testing"
 )
 
